@@ -1,5 +1,12 @@
 # Canada Housing Sales Analysis with SQL
-##
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
+- [Tool](#tool)
+- [Stakeholders Questions](#stakeholders-questions)
+- [Data Cleaning](#data-cleaning)
+- [Solutions and Recommendations for Stakeholders](#solutions-and-recommendations-for-stakeholders)
+- [Conclusion](#conclusion)
 
 ## Project Overview
 The Canadian housing market is a dynamic and multifaceted sector that plays a crucial role in the country's economy. Understanding the nuances of this market requires a comprehensive analysis of various factors that influence housing prices and availability.
@@ -8,7 +15,7 @@ This project aims to provide insights into the Canadian housing market by levera
 
 By exploring trends and patterns within the data, we can gain a deeper understanding of the factors driving the housing market and make informed predictions about future developments.
 
-## Description of the Dataset
+## Dataset Overview
 Data source: [Link](https://www.kaggle.com/datasets/jeremylarcher/canadian-house-prices-for-top-cities)
 
 The dataset utilized for this project offers a detailed snapshot of the Canadian housing market. It includes the following columns:
@@ -37,7 +44,7 @@ Through this analysis, we aim to uncover valuable insights that can inform stake
 ## Tool
 i am using the My SQL software.
 
-## Stakeholder's Questions
+## Stakeholders Questions
 1- What is the main goal or business problem we're trying to solve with this dataset?
 2- How will the insights from this data help us make decisions or take action?
 3- What specific metrics or key performance indicators (KPIs) should we focus on?
